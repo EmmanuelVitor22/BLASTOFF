@@ -1,4 +1,4 @@
-# Teste-BLASTOFF
+# BLASTOFF
 
 Teste de lógica BLASTOFF- 
 
